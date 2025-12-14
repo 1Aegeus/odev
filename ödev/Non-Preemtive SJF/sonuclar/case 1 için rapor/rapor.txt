@@ -1,0 +1,28 @@
+Maksimum ve Ortalama Bekleme Süresi 
+
+Maksimum bekleme süresi: 1863
+Ortalama bekleme süresi: 537,43
+
+Maksimum ve Ortalama Tamamlanma Süresi
+
+Maksimum tamamlanma süresi: 1883
+Ortalama tamamlanma süresi: 547,93
+
+
+
+
+T=[50, 100, 150, 200] için İş Tamamlama Sayısı
+
+T = 50 → 11
+T = 100 → 22
+T = 150 → 32
+T = 200 → 42
+
+
+
+
+Ortalama CPU Verimliliği [Bağlam Değiştirme Süresi: 0,001 birim zaman alın.]
+
+Ortalama CPU Verimliliği: 0,99943
+
+Ttoplam Bağlam Değiştirme Sayısı : 200 

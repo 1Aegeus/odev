@@ -1,0 +1,24 @@
+quantum = 2 için geçerli
+
+Maksimum ve Ortalama Bekleme Süresi 
+
+Maksimum Bekleme Süresi: 944
+Ortalama Bekleme Süresi: 561,54
+
+Maksimum ve Ortalama Tamamlanma Süresi 
+
+Maksimum Tamamlanma Süresi: 963
+Ortalama Tamamlanma Süresi: 572,04
+
+T=[50, 100, 150, 200] için İş Tamamlama Sayısı 
+
+T=50 → 3, 
+T=100 → 7 
+T=150 → 10
+T=200 → 13
+
+Ortalama CPU Verimliliği [Bağlam Değiştirme Süresi: 0,001 birim zaman alın.] 
+
+Ortalama CPU Verimliliği : 0,99948
+
+Toplam Bağlam Değiştirme Sayısı: 549

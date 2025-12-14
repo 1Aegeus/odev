@@ -1,0 +1,38 @@
+İŞLEMCİ ZAMANLAMA ÖDEVİ KULLANIM KILAVUZU
+
+Bu ödevde ; 
+
+-FCFS
+
+-Preemtive SJF 
+
+-Non-Preemtive SJF
+
+-Round Robin
+
+-Preemtive Priority Scheduling
+
+-Non-Preemtive Priority Scheduling 
+
+Algoritmalarına ait kodlar ve verilen caseler için sonuç dosyaları bulunmaktadır .
+
+Her bir algoritmaya ait sonuçlar dosyalarında verilen her bir case için ;
+
+-Zaman çizelgesi
+-Bekleme süreleri
+-Tamamlanma süreleri
+-Verilen değerler için throughput
+-Contextswitch sayısı
+-Cpu verimliliği
+
+Gibi değerler bulunur .
+
+Nasıl kullanılır ?
+
+-Round robin hariç her algoritmada javac Main.java komutu terminalde girilerek metodların derlenmesi ve oluşturulması sağlanır.
+-java -cp . Main odev1_case1.txt , Main odev1_case2.txt komutu girilerek mevcut caselerin algoritmada hesaplanması ve sonuçların yazdırılması sağlanır.
+-Round robin için ise quantum belirtilmelidir örneğin bu ödevde yaptığım gibi 2 quantum belirtmek istersek javac java -cp . Main 2 odev1_case1.txt şeklinde bu komut kullanılmalıdır.
+
+-Visual Studio Code kullanıldı.
+ 
+
